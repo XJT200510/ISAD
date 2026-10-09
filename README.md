@@ -70,7 +70,7 @@ git diff --check
 | 姜均亿 | — |
 | 王耀主 | — |
 | 郭晓晗 | [12345asd177](https://github.com/12345asd177) |
-| 丁燕楠 | — |
+| 丁燕楠 | [yanwang-yan](https://github.com/yanwang-yan) |
 | 江翊宁 | [fall12138](https://github.com/fall12138) |
 | 唐嘉卓 | — |
 | 周振豪 | — |
@@ -96,7 +96,7 @@ git diff --check
 | 高梓涵 | — |
 | 顾问 | [huitoukanmenkou](https://github.com/huitoukanmenkou) |
 | 周倩颖 | — |
-| 艾克代·艾麦提 | — |
+| 艾克代·艾麦提 | [aabb0101aa](https://github.com/aabb0101aa) |
 | 周煜莹 | — |
 | 顾金昊 | — |
 | 李沁婷 | — |
@@ -122,7 +122,7 @@ git diff --check
 | 王争帅 | — |
 | 熊梓淇 | — |
 | 嘎松卓玛 | — |
-| 贵桑德吉 | — |
+| 贵桑德吉 | [gsdj18](https://github.com/gsdj18)|
 | 张力文 | [alexwen111](https://github.com/alexwen111) |
 | 王涛 | [wt192349](https://github.com/wt192349) |
 | 俞楷锋 | — |
